@@ -1,0 +1,31 @@
+.logo img {
+    padding: 30px;
+    margin: 4px;
+    width: 90%;
+    height: 50%;
+
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: #b1dadf;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #9d8b73;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+h1{
+    margin: 20px 2px 2px 5px;
+    color: #333;
+}
+p {
+    margin: 5px 0;
+    color: #070707;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: justify;
+    padding: 8px;
+}
