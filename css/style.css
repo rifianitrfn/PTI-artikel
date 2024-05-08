@@ -14,9 +14,9 @@ body {
     border-radius: 10px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
     text-align: center; 
-    max-width: 600px;
-    margin: auto;
- 
+    max-width:600px;
+    margin: 250px auto;
+    justify-content: center;
 }
 header {
     background-color: #abc5d2;
