@@ -65,3 +65,11 @@ p {
     border-radius: 5px;
     box-shadow: 0 0 8px rgba(0,0,0,0.3);
 }
+
+.container5 {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #d88f97;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
